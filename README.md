@@ -20,7 +20,7 @@ Remember that every folder needs to have its own name.
 
 **Final name**: set to the stacked image the same name as the folder.
 
-**New folder**: create an 'OUTPUT' folder where all the stacked and well-named images will be stored together. (continues)
+**New folder**: create an 'OUTPUT' folder where all the stacked and well-named images will be stored together.
 
 In each button you will need to select the directory.
 ---
