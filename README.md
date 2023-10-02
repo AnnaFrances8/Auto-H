@@ -13,6 +13,7 @@ pip install -r requirements.txt
 There is no connection between AUTO-H and Helicon focus. AUTO-H is intended to be a tool for the automatization of the process in order to increase the number of processed images, but the stacking process is entirely made by the existing no-related program Helicon focus. 
 
 **Change folder name**: In our lab's case, the folders are saved by default with a prefix and a sufix. This tool can delate them and rename the folder. In order to do that it is important to save as follows: name+
+
 Example:REM_96_2042-1-200x-dic+
 Remember that every folder needs to have its own name.
 
