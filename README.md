@@ -3,7 +3,7 @@
 ## Requirements 🛠️
 Python 3 (https://www.python.org/downloads/)
 
-Helicon focus 8.2.2.
+Helicon focus 8.2.2. (https://www.heliconsoft.com/heliconsoft-products/helicon-focus/)
 
 ``` python
 pip install -r requirements.txt
