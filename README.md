@@ -23,7 +23,6 @@ Remember that every folder needs to have its own name.
 **New folder**: create an 'OUTPUT' folder where all the stacked and well-named images will be stored together.
 
 In each button you will need to select the directory.
----
 
 ## Installation 🔧
 Github (https://github.com/AnnaFrances8/Auto-H) > Code > Download zip > extract files > open AUTO-H.py
